@@ -10,6 +10,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravkrv&theme=radical&show_icons=true)
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravkrv&theme=radical&show_icons=true)
 ](https://git.io/streak-stats)
 
