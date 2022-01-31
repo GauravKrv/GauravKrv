@@ -1,5 +1,5 @@
 ### 👋 Hellow, I’m Gaurav Verma
-- 📗 I’m interested in Front-End Web development and Android ap development 
+- 📗 I’m interested in Front-End Web development and Android app development 
 - 💻 I’m currently learning ML
 - 💞️ I’m looking to collaborate on any development works related to Android or Front-End Web-Dev.
 - 📫 How to reach >> Email >> gauravkrvbzi@gmail.com
