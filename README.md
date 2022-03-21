@@ -13,6 +13,8 @@
 ](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gauravkrv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p><img src="https://komarev.com/ghpvc/?username=AyeRaj&label=Profile%20Visiters&color=0e75b6&style=flat" alt="gauravkrv" />
 <!---
 GauravKrv/GauravKrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
