@@ -1,7 +1,7 @@
 ### 👋 Hellow, I’m Gaurav Verma
-- 📗 I’m interested in Front-End Web development and Android app development 
-- 💻 I’m currently learning ML
-- 💞️ I’m looking to collaborate on any development works related to Android or Front-End Web-Dev.
+- 📗 I’m interested in Java | Blockchain 
+- 💻 I’m currently practicing compititive coding and Full-Stack Web Development
+- 💞️ I’m looking to collaborate on any development works related to Full-Stack Web-Dev.
 - 📫 How to reach >> Email >> gauravkrvbzi@gmail.com
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkrv&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
