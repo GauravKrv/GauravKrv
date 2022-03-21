@@ -1,6 +1,6 @@
 ### 👋 Hellow, I’m Gaurav Verma
-- 📗 I’m interested in Java | Blockchain 
-- 💻 I’m currently practicing compititive coding and Full-Stack Web Development
+- 📗 I’m interested in Java | Blockchain | Machine Learning
+- 💻 I’m currently practicing Compititive coding and Full-Stack Web Development
 - 💞️ I’m looking to collaborate on any development works related to Full-Stack Web-Dev.
 - 📫 How to reach >> Email >> gauravkrvbzi@gmail.com
 
