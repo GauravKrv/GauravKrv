@@ -1,6 +1,6 @@
 ### 👋 Hellow, I’m Gaurav Verma
 - 📗 Curious about Web3 | Blockchain
-- 💻 I’m currently practicing Full-Stack Web Development
+- 💻 I’m currently practicing Full-Stack Web Development [MERN + Java]
 - 💞️ I’m looking to collaborate on development works related to Full-Stack Web-Dev.
 - 📫 How to reach >> Email >> gauravkrvbzi@gmail.com 
 
