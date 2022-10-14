@@ -1,7 +1,7 @@
 ### 👋 Hellow, I’m Gaurav Verma
 - 📗 Curious about Web3 | Blockchain
-- 💻 I’m currently practicing Full-Stack Web Development [MERN + Java]
-- 💞️ I’m looking to collaborate on development works related to Full-Stack Web-Dev.
+- 💻 I’m currently practicing Full-Stack Development [MERN + Java(Spring-boot)]
+- 💞️ I’m looking to collaborate on development works related to Full-Stack Development.
 - 📫 How to reach >> Email >> gauravkrvbzi@gmail.com 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkrv&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
