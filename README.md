@@ -12,7 +12,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravkrv&theme=radical&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravkrv&theme=radical&show_icons=true)
 ](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gauravkrv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gauravkrv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p><img src="https://komarev.com/ghpvc/?username=AyeRaj&label=Profile%20Visiters&color=0e75b6&style=flat" alt="gauravkrv" />
 <!---
