@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Gaurav Verma
 - 📗 Curious about AI | Blockchain
-- 💻 I’m currently working as SDE-1 [MERN + Java] in Brick&Bolt
+- 💻 I’m currently working as SDE-2 [MERN + Java] in Brick&Bolt
 - 📫 How to reach >> Email >> gauravkrvbzi@gmail.com 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkrv&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
