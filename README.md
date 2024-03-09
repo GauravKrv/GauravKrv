@@ -1,4 +1,4 @@
-### 👋 Hellow, I’m Gaurav Verma
+### 👋 Hey, I’m Gaurav Verma
 - 📗 Curious about AI | Blockchain
 - 💻 I’m currently working as SDE-1 [MERN + Java] in Brick&Bolt
 - 📫 How to reach >> Email >> gauravkrvbzi@gmail.com 
