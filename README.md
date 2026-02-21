@@ -1,8 +1,8 @@
 ### 👋 Hey, I’m Gaurav Verma
 
-- 🚀 Backend & Distributed Systems Engineer | SDE-2 @ Brick&Bolt  
-- 🧩 Building high-scale systems, microservices, ML/LLM-driven APIs  
-- ⚙️ Java | Python | Distributed Systems | Cloud | Infra | Performance Engineering  
+- 🚀 Backend & Distributed Systems Engineer | Software Developer @ Brick&Bolt  
+- 🧩 Building high-scale systems, microservices, AI Automations, Performance Optimizations  
+- ⚙️ Java | Python | Javascript | Node | Distributed Systems | Cloud | Infra | Performance Engineering  
 - 📫 Reach me → **gauravkrvbzi@gmail.com**
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravkrv&theme=radical&show_icons=true)  -->
